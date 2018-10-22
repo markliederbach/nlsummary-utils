@@ -2,6 +2,7 @@ import re
 import nltk
 import heapq
 
+
 class Summary:
 
     def __init__(self, text, language=None, max_sentence_length=30):
