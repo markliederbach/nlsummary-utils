@@ -4,8 +4,6 @@
 #
 #    pip-compile --output-file requirements/main.txt requirements/main.in
 #
---index-url https://pydevtools.ent.tds.net/devpi/root/prod/+simple
---trusted-host pydevtools.ent.tds.net
 
 certifi==2018.10.15       # via requests
 chardet==3.0.4            # via requests
