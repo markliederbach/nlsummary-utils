@@ -31,8 +31,8 @@ setup(
     description="Simple package to facilitate the summary of large texts to smaller, concise ideas.",
     long_description=readme + '\n\n' + history,
     author="Mark Liederbach",
-    author_email='usrolh@tdstelecom.com',
-    url='https://wiki.tds.net/display/admnetapps/nlsummary-utils',
+    author_email='contact@markliederbach.com',
+    url='https://github.com/markliederbach/nlsummary-utils',
     packages=find_packages(include=[
         'nlsummary_utils',
     ]),

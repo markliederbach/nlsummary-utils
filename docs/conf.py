@@ -59,7 +59,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'nlsummary-utils'
-copyright = u'2018, TDS Telecom'
+copyright = u'2018, Mark Liederbach'
 
 # The version info for the project you're documenting, acts as replacement
 # for |version| and |release|, also used in various other places throughout

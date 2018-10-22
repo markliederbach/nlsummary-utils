@@ -12,7 +12,7 @@ Here's how to set up `nlsummary_utils` for local development.
 
 1. Clone the `nlsummary_utils` repository from GitLab::
 
-    $ git clone git@git.ent.tds.net:usrolh/nlsummary-utils.git
+    $ git clone git@github.com:markliederbach/nlsummary-utils.git
 
 2. Install your local copy into a virtualenv. Many virtualenv management
    solutions exist, so use whatever you prefer. Assuming you have
