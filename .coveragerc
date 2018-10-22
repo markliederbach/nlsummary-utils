@@ -1,0 +1,4 @@
+[report]
+include=*/nlsummary_utils/*
+omit=
+    */tests/*
